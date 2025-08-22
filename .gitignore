@@ -1,0 +1,6 @@
+# Ignore everything in the directory
+*
+
+# But don't ignore init.el
+!.gitignore
+!init.el
